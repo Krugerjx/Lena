@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 18.6//EN
+N:Облова;Елена;;;
+FN:Елена Облова
+ORG:РА «Наш город»;
+EMAIL;type=INTERNET;type=HOME;type=pref:n_gorod@list.ru
+TEL;type=CELL;type=VOICE;type=pref:+7 (903) 329-95-32
+TEL:+7 (962) 622-34-92
+URL;type=WORK;type=pref:https://t.me/nashgorod164
+URL;type=HOME:https://t.me/nashgorod64
+item1.URL:www.nashgorod64.ru
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
